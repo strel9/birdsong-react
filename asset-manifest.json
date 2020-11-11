@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/birdsong/static/js/main.fa2e22e8.chunk.js",
-    "main.js.map": "/birdsong/static/js/main.fa2e22e8.chunk.js.map",
-    "runtime-main.js": "/birdsong/static/js/runtime-main.6f57049c.js",
-    "runtime-main.js.map": "/birdsong/static/js/runtime-main.6f57049c.js.map",
-    "static/js/2.98e481a9.chunk.js": "/birdsong/static/js/2.98e481a9.chunk.js",
-    "static/js/2.98e481a9.chunk.js.map": "/birdsong/static/js/2.98e481a9.chunk.js.map",
-    "index.html": "/birdsong/index.html",
-    "precache-manifest.96c898435f7943cd20ddd5bca3505c12.js": "/birdsong/precache-manifest.96c898435f7943cd20ddd5bca3505c12.js",
-    "service-worker.js": "/birdsong/service-worker.js",
-    "static/js/2.98e481a9.chunk.js.LICENSE.txt": "/birdsong/static/js/2.98e481a9.chunk.js.LICENSE.txt"
+    "main.js": "/birdsong-react/static/js/main.fa2e22e8.chunk.js",
+    "main.js.map": "/birdsong-react/static/js/main.fa2e22e8.chunk.js.map",
+    "runtime-main.js": "/birdsong-react/static/js/runtime-main.25593ddd.js",
+    "runtime-main.js.map": "/birdsong-react/static/js/runtime-main.25593ddd.js.map",
+    "static/js/2.98e481a9.chunk.js": "/birdsong-react/static/js/2.98e481a9.chunk.js",
+    "static/js/2.98e481a9.chunk.js.map": "/birdsong-react/static/js/2.98e481a9.chunk.js.map",
+    "index.html": "/birdsong-react/index.html",
+    "precache-manifest.160ee7bf7982c86648202cbab8f71721.js": "/birdsong-react/precache-manifest.160ee7bf7982c86648202cbab8f71721.js",
+    "service-worker.js": "/birdsong-react/service-worker.js",
+    "static/js/2.98e481a9.chunk.js.LICENSE.txt": "/birdsong-react/static/js/2.98e481a9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6f57049c.js",
+    "static/js/runtime-main.25593ddd.js",
     "static/js/2.98e481a9.chunk.js",
     "static/js/main.fa2e22e8.chunk.js"
   ]
